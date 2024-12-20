@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazonplay&show_icons=true&locale=en" alt="fazonplay" /></p>
 
-<p><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Cool_jump.gif" alt="fazonplay" /></p>
+<p><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5reTh4cXN4N3dzbmE2bW8ybmRpZXBoYm50emgxb3Q4YnF0czd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Z5WOh28aeWoo/giphy.webp" alt="fazonplay" /></p>
