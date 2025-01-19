@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazonplay" alt="fazonplay" /></a> </p>
 
-- 🔭 I’m currently working on **survival.**
+- 🔭 I’m currently working on **surviving.**
 
 - 🤝 I’m looking for help with **learning how to create games in C**
 
