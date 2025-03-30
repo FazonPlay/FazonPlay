@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on making my own portfolio page!<br>👯  I’m currently <br>💬 Ask me about<br>⚡ Fun fact: I'm a hardware nerd!
+🔭 Hey there! I'm David, a passionate developer who loves anything hardware related as well as solving coding problems.<br>👯  I’m currently working on creating my own portfolio webpage. <br>💬 My goal is to become a full-time developer whether it is in game developement or as a fullstack developer, I always strive to push my limits and create something impactful!⚡
+
+
 
 
 ## 🌐 Socials:
