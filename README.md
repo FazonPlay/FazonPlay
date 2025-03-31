@@ -22,7 +22,7 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=FazonPlay&theme=blue-green&hide_border=false" height="180"/>
     </td>
     <td>
-      <img src="https://media.tenor.com/MhOsMskRuqkAAAAM/broly.gif" width="200"/>
+      <img src="https://i.pinimg.com/originals/91/c4/16/91c41654725942958e1f96d04fdd71e2.gif" width="200"/>
     </td>
   </tr>
 </table>
