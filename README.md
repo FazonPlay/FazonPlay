@@ -20,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FazonPlay&theme=blue-green&hide_border=false&layout=compact&card_width=400&langs_count=5" height="180" alt="languages graph"/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=FazonPlay&theme=blue-green&hide_border=false" height="180"/>
   </div>
-  <img src="[https://media.tenor.com/GVbWMPslm5UAAAAC/broly-dragon-ball.gif](https://media.tenor.com/MhOsMskRuqkAAAAM/broly.gif)" width="200" style="margin-left: 20px;"/>
+<img src="https://media.tenor.com/MhOsMskRuqkAAAAM/broly.gif" width="200" style="margin-left: 20px;"/>
 </div>
 
 
