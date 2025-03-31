@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats:
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=FazonPlay&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FazonPlay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <img src="https://nirzak-streak-stats.vercel.app/?user=FazonPlay&theme=blue-green&hide_border=false"/>
   </div>
   <img src="https://media.tenor.com/GVbWMPslm5UAAAAC/broly-dragon-ball.gif" width="200" style="margin-left: 20px;"/>
