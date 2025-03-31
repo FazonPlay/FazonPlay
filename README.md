@@ -16,34 +16,31 @@
 ---
 
 ## 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,python,php,mysql,bootstrap,git,github,canva,ps,idea" />
-</p>
-
----
-
-## 📊 GitHub Stats:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FazonPlay&show_icons=true&theme=radical&hide_border=true" />
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=js,html,css,python,java,php,mysql,bootstrap,git,github,canva,ps,idea" />
+      </p>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FazonPlay&theme=radical&hide_border=true"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazonPlay&layout=compact&theme=radical&hide_border=true"/>
+    <td align="center">
+      <img src="https://media.tenor.com/GVbWMPslm5UAAAAC/broly-dragon-ball.gif" width="200"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔥 Broly GIF for Extra Power:
+## 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://media.tenor.com/GVbWMPslm5UAAAAC/broly-dragon-ball.gif" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FazonPlay&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake Game Contribution Graph:
+<p align="center">
+  <img src="https://github.com/FazonPlay/FazonPlay/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
