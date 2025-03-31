@@ -15,12 +15,15 @@
 
 ---
 
-## 💻 Tech Stack:
+## 🔥 GitHub Stats:
 <table>
   <tr>
     <td>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=js,html,css,python,java,php,mysql,bootstrap,git,github,canva,ps,idea" />
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FazonPlay&theme=radical&hide_border=true"/>
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazonPlay&layout=compact&theme=radical&hide_border=true" />
       </p>
     </td>
     <td align="center">
@@ -31,9 +34,9 @@
 
 ---
 
-## 🔥 GitHub Streak:
+## 💻 Tech Stack:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FazonPlay&theme=radical&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,php,mysql,bootstrap,git,github,canva,ps,idea" />
 </p>
 
 ---
